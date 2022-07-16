@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Captura_Video</string>
+    <string name="videos_guardados_en_bd">VIDEOS GUARDADOS EN BD</string>
+    <string name="grabar_video">Grabar Video</string>
+    <string name="guardar_en_bd">GUARDAR EN BD</string>
+    <string name="ver_video">Ver Video</string>
+</resources>
